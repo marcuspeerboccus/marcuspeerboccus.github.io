@@ -29,8 +29,8 @@
 
 ---
 
-### Project: COVID Model 
-[🦠](https://github.com/marcuspeerboccus/COVID-19-Analysis)
+### Project: COVID Model 🦠\
+[Link](https://github.com/marcuspeerboccus/COVID-19-Analysis)
 *Skills: scikit-learn, Regression Analysis | May 2024*  
 - Analyzed a dataset with health risk factors and COVID-19 infection status for 1 million patients
 - Developed models (random forest, decision tree, logistic regression) using scikit-learn to:
@@ -40,8 +40,8 @@
 
 ---
 
-### Project: Nutrient Sorter
-[🍏](https://github.com/ShreyasKodela/Project3_Group20)
+### Project: Nutrient Sorter 🍏\
+[Link](https://github.com/ShreyasKodela/Project3_Group20)
 *Skills: C++, CSV Parsing, Big O Notation | December 2023*  
 - Parsed a CSV from the FDA with nutrient/vitamin values of over 5000 foods into a data structure: vector of pairs (food name, nutrient/vitamin value)  
 - Compared efficiency of quick-sort and merge-sort algorithms by tracking computation times  
@@ -58,6 +58,6 @@
 - Developing a value appraisal model with OpenCV, linking car damage images to final bid price  
 
 ## Contact 🤝
-You can reach me at: **mpeerboccus@ufl.edu**
+You can reach me at: **mpeerboccus@ufl.edu**\
 [LinkedIn](https://www.linkedin.com/in/marcus-peerboccus-52086a1b8/)
 
