@@ -1,4 +1,3 @@
-![Marcus Peerboccus Headshot](1726930789392.jpg)
 
 ## Education 🎓
 **Double Bachelors of Science in Data Science & Biology**  
