@@ -1,8 +1,3 @@
----
-layout: default
-title: Marcus Peerboccus Portfolio
----
-
 # Marcus Peerboccus
 
 ## Education 🎓
