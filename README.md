@@ -1,5 +1,3 @@
-# Marcus Peerboccus
-
 ## Education 🎓
 **Double Bachelors of Science in Data Science & Biology**  
 **University of Florida**  
