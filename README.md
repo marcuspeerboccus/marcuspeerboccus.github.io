@@ -1,31 +1,68 @@
-MARCUS PEERBOCCUS 
-EDUCATION 
-DOUBLE BACHELORS OF SCIENCE IN DATA SCIENCE & BIOLOGY 
-UNIVERSITY OF FLORIDA 
-EXPECTED GRAUDATION: 2025, CURRENT GPA: 3.2 
-Member of the Honors College, and the University Research Scholars Program which is comprised of the 
-top 5% of the 2025 graduating class 
-RELEVANT COURSEWORK 
-Data Structures & Algorithms (C++), Intro to Programming & Numerical Methods 
-(Python/NumPy/matplotlib), Linear Algebra for Data Science (scikit-learn), Calculus I-III, Programming in 
-R, Probability, Linear Regression, Statistics Theory, Principles of Microeconomics, Principles of 
-Macroeconomics, Databases (SQL), Statistical Learning (R), Geographic Information Systems (ArcGIS) 
-SKILLS 
-Python, C++, R (hypothesis testing, linear regression), SQL, scikit-learn, NumPy, matplotlib, seaborn, 
-MATLAB, PyTorch, pandas, ArcGIS Pro/ArcMap 
-EXPERIENCE 
-CERTIFICATION: NVIDIA & UFIT: FUNDEMENTALS OF DEEP LEARNING, NOVEMBER 2024 
-4 week in person course delivered by NVIDIA & UFIT, covering the theory behind neural networks, and 
-applications of Deep Learning with 7 guided projects, and a final assessment using PyTorch 
-PROJECT: COVID MODEL, SKILLS: SCIKIT LEARN, REGRESSION ANALYSIS, MAY 2024 
-Analyzed a dataset from the Mexican government that contained health risk factors and COVID-19 
-infection status of over 1 million patients. Developed 3 machine learning models using sci-kit learn to 
-predict patient mortality given COVID infection status, and also COVID infection status given patient 
-demographics (selected using Principal Component Analysis). Used cross validation to train and test 
-random forest, decision tree, and logistic regression models. Models visualized with a confusion matrix 
-and response operator curve using matplotlib and seaborn packages. 
-PROJECT: NUTRITIENT SORTER, SKILLS: C++, CSV PARSING, BIG O NOTATION, DECEMBER 2023 
-Parsed CSV from the FDA with nutrient/vitamin values of over 5000 foods into a data structure: a vector 
-of pairs containing a string (food name) and a double (nutrient/vitamin value). User would receive an 
-output with foods highest in the nutrient/vitamin they selected. Efficiency of the sorting algorithms 
-were compared in a report using big O notation, and the chrono library in C++. 
+---
+layout: default
+title: Marcus Peerboccus Portfolio
+---
+
+# Marcus Peerboccus
+
+## Education 🎓
+**Double Bachelors of Science in Data Science & Biology**  
+**University of Florida**  
+*Current GPA: 3.2, Expected Graduation: 2025*  
+
+- Member of the Honors College  
+- University Research Scholars Program (top 5% of the 2025 graduating class)
+
+---
+
+## Relevant Coursework & Skills 📚
+- **Programming & Data Science**:  
+  Data Structures & Algorithms (C++), Intro to Programming (Object-Oriented Python), Computational Math in Python (NumPy, matplotlib, pandas, seaborn), Linear Algebra for Data Science (scikit-learn, Keras, PyTorch), Databases (SQL, MariaDB, HeidiSQL)
+- **Mathematics & Statistics**:  
+  Calculus I-III, Probability Theory, Linear Regression (R), Statistics Theory, Statistical Learning (R: Regression, Trees, Lasso/Ridge, PCA)
+- **Other Topics**:  
+  Principles of Microeconomics, Principles of Macroeconomics, Geographic Systems (ArcGIS Pro), Microsoft Office  
+
+---
+
+## Experience 🔨
+
+### Certification: NVIDIA & UFIT: Fundamentals of Deep Learning 🧠
+*November 2024*  
+- Completed a 4-week in-person course delivered by NVIDIA & UFIT
+- Covered the theory of neural networks and applications of Deep Learning
+- Completed 7 guided projects and a final assessment using PyTorch  
+
+---
+
+### Project: COVID Model 🦠
+*Skills: scikit-learn, Regression Analysis | May 2024*  
+- Analyzed a dataset with health risk factors and COVID-19 infection status for 1 million patients
+- Developed models (random forest, decision tree, logistic regression) using scikit-learn to:
+  - Predict mortality given COVID infection status
+  - Predict infection status given patient demographics  
+- Visualized cross-validation results using confusion matrices and ROC curves (matplotlib, seaborn)  
+
+---
+
+### Project: Nutrient Sorter 🍏
+*Skills: C++, CSV Parsing, Big O Notation | December 2023*  
+- Parsed a CSV from the FDA with nutrient/vitamin values of over 5000 foods into a data structure: vector of pairs (food name, nutrient/vitamin value)  
+- Compared efficiency of quick-sort and merge-sort algorithms by tracking computation times  
+- Verified sorting algorithm performance using Big O Notation  
+
+---
+
+### Project (In Progress): Car Sales Forecasting 🏎️
+*Skills: scikit-learn, sktime, BeautifulSoup, OpenCV | December 2024*  
+- Conducting time series forecasting of used car auction sales using the sktime package  
+- Building an initial model with Lasso Regression to identify important covariates  
+- Comparing results with tree-based approaches (Boosting, Bagging, Random Forest)  
+- Planning to scrape additional data from Copart.com using BeautifulSoup  
+- Developing a value appraisal model with OpenCV, linking car damage images to final bid price  
+
+---
+
+## Contact 🤝
+You can reach me at: **mpeerboccus@ufl.edu**  
+
