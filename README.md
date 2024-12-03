@@ -13,7 +13,7 @@
 - **Programming & Data Science**:  
   Data Structures & Algorithms (C++), Intro to Programming (Object-Oriented Python), Computational Math in Python (NumPy, matplotlib, pandas, seaborn), Linear Algebra for Data Science (scikit-learn, Keras, PyTorch), Databases (SQL, MariaDB, HeidiSQL)
 - **Mathematics & Statistics**:  
-  Calculus I-III, Probability Theory, Linear Regression (R), Statistics Theory, Statistical Learning (R: Regression, Trees, Lasso/Ridge, PCA)
+  Calculus I-III, Probability Theory, Linear Regression (R), Statistics Theory, Statistical Learning (R: Regression, Trees, Lasso/Ridge, PCA, CNN's, KNN, Support Vector Machines)
 - **Other Topics**:  
   Principles of Microeconomics, Principles of Macroeconomics, Geographic Systems (ArcGIS Pro), Microsoft Office  
 
