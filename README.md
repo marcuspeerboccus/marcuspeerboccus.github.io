@@ -1,8 +1,13 @@
 ## Important Links 🤝
+
 Email: **mpeerboccus@ufl.edu**
+
 **[Github](https://github.com/marcuspeerboccus)**
+
 **[LinkedIn](https://www.linkedin.com/in/marcus-peerboccus-52086a1b8/)**
+
 **[HuggingFace](https://huggingface.co/marcuspeerboccus)**
+
 **[Kaggle](https://www.kaggle.com/marcusp03)**
 
 ---
