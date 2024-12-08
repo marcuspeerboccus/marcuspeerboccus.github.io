@@ -21,6 +21,17 @@
 
 ## Experience 🔨
 
+### Project: Car Sales Forecasting 🚗  
+*Skills: Facebook Prophet, scikit-learn (XGBoost, LASSO, Random Forest), Hyperparameter Tuning | December 2024*  
+- Extracted 10 years of monthly sales data for a popular sedan using CV techniques and aggregated it with economic data from multiple sources  
+- Implemented Facebook's Prophet time series forecasting model with one covariate  
+- Compared Prophet results with XGBoost, Random Forest, and LASSO models, all using a full lagged covariate set  
+- Performed iterative hyperparameter tuning for Prophet and LASSO models, reducing out-of-sample MAPE (average % deviation from true value) for Prophet from 87% to 16%  
+- Achieved MAPE ranges from 22% (LASSO) to 11% (Random Forest), demonstrating model effectiveness for forecasting 2024 data using 2013-2023 data 
+- Utilized the parsimonious LASSO model to identify the most important covariates impacting sales  
+
+---
+
 ### Certification: NVIDIA & UFIT: Fundamentals of Deep Learning 🧠
 *November 2024*  
 - Completed a 4-week in-person course delivered by NVIDIA & UFIT
@@ -49,15 +60,6 @@
 - Compared efficiency of quick-sort and merge-sort algorithms by tracking computation times  
 - Verified sorting algorithm performance using Big O Notation  
 
----
-
-### Project (In Progress): Car Sales Forecasting 🏎️
-*Skills: scikit-learn, sktime, BeautifulSoup, OpenCV | December 2024*  
-- Conducting time series forecasting of used car auction sales using the sktime package  
-- Building an initial model with Lasso Regression to identify important covariates  
-- Comparing results with tree-based approaches (Boosting, Bagging, Random Forest)  
-- Planning to scrape additional data from Copart.com using BeautifulSoup  
-- Developing a value appraisal model with OpenCV, linking car damage images to final bid price  
 
 ## Contact 🤝
 You can reach me at: **mpeerboccus@ufl.edu**
