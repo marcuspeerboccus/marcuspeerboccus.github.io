@@ -1,3 +1,11 @@
+## Important Links 🤝
+Email: **mpeerboccus@ufl.edu**
+**[Github](https://github.com/marcuspeerboccus)**
+**[LinkedIn](https://www.linkedin.com/in/marcus-peerboccus-52086a1b8/)**
+**[HuggingFace](https://huggingface.co/marcuspeerboccus)**
+**[Kaggle](https://www.kaggle.com/marcusp03)**
+
+---
 
 ## Education 🎓
 **Double Bachelors of Science in Data Science & Biology**  
@@ -61,8 +69,5 @@
 - Verified sorting algorithm performance using Big O Notation  
 
 
-## Contact 🤝
-You can reach me at: **mpeerboccus@ufl.edu**
 
-**[LinkedIn](https://www.linkedin.com/in/marcus-peerboccus-52086a1b8/)**
 
