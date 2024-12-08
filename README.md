@@ -36,6 +36,7 @@ Email: **mpeerboccus@ufl.edu**
 
 ### Project: Car Sales Forecasting 🚗  
 **[Github Link](https://github.com/marcuspeerboccus/Q50-Forecasting)**
+
 *Skills: Facebook Prophet, scikit-learn (XGBoost, LASSO, Random Forest), Hyperparameter Tuning | December 2024*  
 - Extracted 10 years of monthly sales data for a popular sedan using CV techniques and aggregated it with economic data from multiple sources  
 - Implemented Facebook's Prophet time series forecasting model with one covariate  
