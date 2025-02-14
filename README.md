@@ -33,6 +33,26 @@ Email: **mpeerboccus@ufl.edu**
 ---
 
 ## Experience 🔨
+### Project: Biddify 🚘
+**[Github Link](https://github.com/marcuspeerboccus/Biddify/)**
+*Skills: React, TypeScript, Qwen Vision Language Model, KNN, CNN, BeautifulSoup, Selenium | In Progress*  
+- Developing a hybrid KNN-CNN framework to predict final auction prices for damaged vehicles based on image and metadata analysis  
+- Utilizing Qwen Vision Language Model (VLM) to extract key features from vehicle photos for prediction  
+- Building a React-based frontend for users to upload photos and select vehicle details  
+- Experimenting with web scraping tools like BeautifulSoup and Selenium to extract historical auction data from Copart  
+- Aiming to integrate real-time prediction capabilities and enhance data mining techniques for improved accuracy  
+
+---
+
+### Certification: NVIDIA - Building RAG Agents with LLMs 🧠  
+*Skills: Retrieval-Augmented Generation (RAG), Docker, LangChain, Pydantic, Gradio, LangServe | January 2025*  
+- Completed a workshop on designing and deploying LLM systems with retrieval-augmented generation  
+- Built modular RAG agents capable of answering dataset-specific queries without fine-tuning  
+- Gained hands-on experience with embedding techniques for semantic similarity and vector store construction  
+- Designed chatbot pipelines utilizing tools like Docker, LangChain, and Gradio to manage dialog states efficiently  
+- Learned advanced techniques for document retrieval and LLM integration for real-world applications  
+
+---
 
 ### Project: Car Sales Forecasting 🚗  
 **[Github Link](https://github.com/marcuspeerboccus/Q50-Forecasting)**
