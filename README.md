@@ -35,6 +35,7 @@ Email: **mpeerboccus@ufl.edu**
 ## Experience 🔨
 ### Project: Biddify 🚘
 
+
 **[Github Link](https://github.com/marcuspeerboccus/Biddify/)**
 *Skills: React, TypeScript, Qwen Vision Language Model, KNN, CNN, BeautifulSoup, Selenium | In Progress*  
 - Developing a hybrid KNN-CNN framework to predict final auction prices for damaged vehicles based on image and metadata analysis  
